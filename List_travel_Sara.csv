@@ -1,0 +1,49 @@
+Travel(from),Travel(to),Date,Years,notes
+London,Venice,26/08/2022,2022,
+London,Venice,14/09/2022,2022,
+Venice,Leicester,03/10/2022,2022,mark
+London,Roma,12/10/2022,2022,12-13 october from London
+Venice,London,02/11/2022,2022,
+London,Barcelona,13/11/2022,2022,mark
+Venice,London,30/11/2022,2022,
+London,Venice,16/12/2022,2022,
+Venice,London,06/01/2023,2023,
+London,Venice,14/01/2023,2023,
+Venice,London,01/02/2023,2023,
+London,Venice,16/02/2023,2023,mark
+Venice,London,02/03/2023,2023,
+London,Venice,18/03/2023,2023,
+Venice,London,02/04/2023,2023,
+London,Venice,15/04/2023,2023,
+Venice,London,01/05/2023,2023,
+London,Venice,13/05/2023,2023,13-14 may from London; mark
+Venice,Lausanne,28/05/2023,2023,in London 1st june; mark
+Lausanne ,London,01/06/2023,2023,
+London,Venice,14/06/2023,2023,
+Venice,London,01/07/2023,2023,
+London,Venice,15/07/2023,2023,
+Venice,London,24/07/2023,2023,
+London,Venice,11/08/2023,2023,
+Venice,London,02/09/2023,2023,
+London,Venice,14/09/2023,2023,
+Venice,Germany,27/09/2023,2023,27-29 sept from Venice; mark
+Germany,London,29/09/2023,2023,29-30 sept from Germany; mark
+London,Venice,13/10/2023,2023,
+Venice,London,01/11/2024,2023,
+London,Venice,17/11/2024,2023,
+Venice,London,02/12/2023,2023,
+London,Venice,13/12/2023,2023,13-14 dec from London; no ticket; mark
+Venice,London,03/01/2024,2024,
+London,Venice,14/01/2024,2024,
+Venice,London,30/01/2024,2024,
+London,Venice,14/02/2024,2024,mark
+Venice,London,01/03/2024,2024,
+London,Roma,14/03/2024,2024,
+Venice,London,02/04/2024,2024,
+London,Venice,13/04/2024,2024,
+Venice,Edinburgh,28/04/2024,2024,
+London,Venice,11/05/2024,2024,
+Venice,Puerto Rico,17/05/2024,2024,
+Puerto Rico ,Venice,24/05/2024,2024,
+Venice,London,01/06/2024,2024,
+London,Venice,15/06/2024,2024,
