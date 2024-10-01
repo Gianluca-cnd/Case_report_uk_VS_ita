@@ -33,9 +33,10 @@ library(sugrrants)
 install.packages("sugrrants")
 
 # reading csv and specifying types of date and time columns
+#define directory "C:/Users/gg00642/OneDrive - University of Surrey/Desktop/Actigraphy Sara"
+setwd("C:\\Users\\gg00642\\OneDrive - University of Surrey\\Desktop\\Actigraphy Sara")
 
-db <- read_csv("C:/Users/dc00955/OneDrive - University of Surrey/Desktop/Sara_case_report/activity_1part_test.csv",
-               col_types = cols(date = col_date("%Y/%m/%d"), col_time("%H/%M/%S")))
+db <- read_excel("\\activity_1part_Sara_report.xlsx", sheet = "Sheet1", col_types = cols(date = col_date("%Y/%m/%d"), col_time("%H/%M/%S")))
 
 
 hourly_peds %>%
