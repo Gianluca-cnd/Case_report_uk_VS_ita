@@ -5,5 +5,5 @@ This longitudinal study offers real-world insights into the sleep-wake patterns 
 
 The script is designed to be modular, allowing for easy customization based on specific research needs.
 
-actigraphy; circadian clock; jet lag; time zones; time zone transitions; sleep; rest–activity pattern.
+Actigraphy; circadian clock; jet lag; time zones; time zone transitions; sleep; rest–activity pattern
 
